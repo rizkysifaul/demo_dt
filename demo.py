@@ -1,4 +1,4 @@
-import graphviz as graphviz
+#import graphviz as graphviz
 from sklearn.datasets import load_iris
 from sklearn import tree
 import streamlit as st
